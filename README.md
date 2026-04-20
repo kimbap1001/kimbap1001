@@ -43,6 +43,21 @@ Explored and benchmarked MVS-based 3D reconstruction pipelines (COLMAP & Patchma
 using the Tanks and Temples dataset. Debugged Open3D version compatibility issues.
 > Python · COLMAP · Open3D · Computer Vision
 
+### 🗄️ [graduation-checker-plsql](https://github.com/kimbap1001/graduation-checker-plsql)
+Designed a relational DB schema (1NF→3NF) and implemented graduation eligibility checker
+using Oracle PL/SQL stored procedures, functions, and triggers.
+> Oracle · PL/SQL · Database Design · Trigger
+
+### 🔄 [nfa-to-reduced-dfa](https://github.com/kimbap1001/nfa-to-reduced-dfa)
+Implemented (ε-)NFA → DFA → Reduced DFA converter using subset construction
+and partition refinement algorithms. Verified against 10 test cases.
+> Python · Formal Languages · Automata Theory
+
+### 🔍 [minic-scanner](https://github.com/kimbap1001/minic-scanner)
+Extended a MiniC lexical scanner with additional keywords and literal types
+(character, string, double including shortforms like `.123` and `123.`).
+> C · Compiler · Lexical Analysis · Scanner
+
 ### 🏆 AI-Driven Interactive Radio for Dementia Patients · Excellence Award
 <img width="400" src="https://github.com/user-attachments/assets/1e7401eb-366f-4e52-8357-ff2fa3ebc6ba" />
 
