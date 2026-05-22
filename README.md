@@ -36,6 +36,11 @@ Bachelor of Engineering in Computer Science and Engineering
 
 ## 📂 Projects
 
+### ✈️ [travel-planning-agent](https://github.com/kimbap1001/travel-planning-agent)
+AI-powered travel planning agent that automates the entire trip planning process —
+from flight price research to day-by-day itinerary generation, using a multi-agent pipeline.
+> LangChain · LangGraph · OpenAI GPT-4o-mini · Python · ReAct Agent
+
 ### 🔧 [semaphore-from-scratch](https://github.com/kimbap1001/semaphore-from-scratch)
 Implemented a custom semaphore in C++ using `std::mutex` and `std::condition_variable`.
 Benchmarked Spinlock vs SleepMutex and POSIX primitives across thread counts 1–16.
