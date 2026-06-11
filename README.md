@@ -12,8 +12,8 @@ Passionate about software that controls hardware, and always eager to pick up ne
 
 Bachelor of Engineering in Computer Science and Engineering
 
-- GPA: 3.91 / 4.5
-- Major GPA: 4.13 / 4.5
+- GPA: 3.95 / 4.5
+- Major GPA: 4.2 / 4.5
 - Academic Excellence Scholarship (Spring 2025)
 
 **Relevant Coursework (A+):**
