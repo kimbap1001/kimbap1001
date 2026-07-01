@@ -13,7 +13,7 @@ Passionate about software that controls hardware, and always eager to pick up ne
 Bachelor of Engineering in Computer Science and Engineering
 
 - GPA: 3.95 / 4.5
-- Major GPA: 4.2 / 4.5
+- Major GPA: 4.17 / 4.5
 - Academic Excellence Scholarship (Spring 2025)
 
 **Relevant Coursework (A+):**
@@ -35,6 +35,16 @@ Bachelor of Engineering in Computer Science and Engineering
 ---
 
 ## 📂 Projects
+
+### 🗣️ [Hilingual](https://github.com/Hi-lingual)
+Server developer for an English diary app service — handling backend API development
+and responding to production incidents in a 15-person cross-functional team.
+> Java · Spring Boot · PostgreSQL · Docker · GitHub Actions
+
+### 🚇 [Seoul Metro Complaint Auto-Dispatch System](https://github.com/dongguk-headfirst-21)
+Backend developer for a capstone project with Seoul Metro — built REST APIs
+for an AI-powered complaint routing system using RAG and LLM inference.
+> Java · Spring Boot · FastAPI · PostgreSQL · LangChain · Kafka
 
 ### ✈️ [travel-planning-agent](https://github.com/kimbap1001/travel-planning-agent)
 AI-powered travel planning agent that automates the entire trip planning process —
